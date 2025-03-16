@@ -3,6 +3,14 @@ Mesure la latence et la consommation
 Quelques notes sur différents scripts
 Les scripts dans le dossier WORKSPACE_DLA_TESTED sont fonctionnels
 
+# Prérequis
+
+Jetpack 5.12 (logique)
+Docker avec les images correspondantes
+Environ 10-15Go de Stockage pour les images
+
+Les mesures prennent environ 1h10
+
 # start-containers.sh
 
 Démarre de force les containers
