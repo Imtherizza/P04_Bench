@@ -9,6 +9,8 @@ Jetpack 5.12 (logique)
 
 Docker avec les images correspondantes
 
+Les reseaux neurones trop volumineux à importer
+
 Environ 10-15Go de Stockage pour les images
 
 Les mesures prennent environ 1h10
